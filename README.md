@@ -1,3 +1,10 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, It's SOUMITRA! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+
+
+
 - 👋 Hi, I’m @Soumitra3 (Soumitra Nayak)
 - 👀 I’m interested in Software Development, currently learning!...
 - 🌱 I’m currently pursuing my B.Tech in CSE at ITER,SOA...
